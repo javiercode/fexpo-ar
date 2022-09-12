@@ -1,11 +1,6 @@
-# Augmented Reality (WebAR) based Invitation Cards
+# Realidad Aumentada (WebAR) basado en tarjetas
 
-Ever thought of inviting our buddies using invitation cards which are augmented reality enabled, 
-so that they can view can view the content in more realistic way rather than normal printed card pattern. 
-Web AR has made it more feasible since no need of application for it, we can directly go in the web app 
-which we can deploy it any of the available free hosting site and view and enjoy the ar content.
+Divertida tarjeta para ver realidad aumentada, cuenta con mapa, cronometro y video
 
-Download invitation-template.jpg and start playing with the Augmented Reality content.
-
-https://medium.com/bycodegarage/ar-js-web-ar-enabled-invitation-cards-ebeaa5c0f592
-https://jeromeetienne.github.io/AR.js/three.js/examples/marker-training/examples/generator.html
+Fuente: 
+lib for Jerome Etienne 
